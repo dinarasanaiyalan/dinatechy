@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dinatechy/static/css/main.3612eaaf.css",
+    "main.js": "/dinatechy/static/js/main.263dd722.js",
+    "static/js/453.534db5b8.chunk.js": "/dinatechy/static/js/453.534db5b8.chunk.js",
+    "static/media/Me.jpg": "/dinatechy/static/media/Me.82caa05a84239ec18cc1.jpg",
+    "static/media/DinaTechy.png": "/dinatechy/static/media/DinaTechy.96a896dbcb0163aef246.png",
+    "index.html": "/dinatechy/index.html",
+    "main.3612eaaf.css.map": "/dinatechy/static/css/main.3612eaaf.css.map",
+    "main.263dd722.js.map": "/dinatechy/static/js/main.263dd722.js.map",
+    "453.534db5b8.chunk.js.map": "/dinatechy/static/js/453.534db5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3612eaaf.css",
+    "static/js/main.263dd722.js"
+  ]
+}
