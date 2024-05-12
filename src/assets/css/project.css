@@ -1,0 +1,15 @@
+.project-container{
+    margin: 5%;
+}
+
+.project-card{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.project{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}

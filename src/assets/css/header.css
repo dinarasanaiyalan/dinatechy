@@ -1,0 +1,22 @@
+.header-style{
+    margin: 10px 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu{
+    text-decoration: none;
+    font-weight: 300;
+    font-size: larger;
+    color: black;
+    margin-left: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
